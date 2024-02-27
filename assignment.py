@@ -45,7 +45,7 @@ for date, price, marker in crossings:
 # Adding labels and title
 ax.set_xlabel('Date')
 ax.set_ylabel('Price')
-ax.set_title('Microsoft Stock Prices')
+ax.set_title('Mifsagsgadfghuytrdfghytf')
 
 # Adding legend
 ax.legend()
